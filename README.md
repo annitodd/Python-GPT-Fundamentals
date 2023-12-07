@@ -4,35 +4,28 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. We
-recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
+This repository contains the materials for D-Lab's GPT Fundamentals workshop. We recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals),
+[Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) prior to this workshop.
 
-Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+Check out D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
-
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
+This workshop offers a general introduction to the GPT (Generative Pretrained Transformers) model. We will explore how they reflect and shape our cultural narratives and social interactions, and which drawbacks and constraints they have. We will explore the transformer architecture upon which GPTs are built, how GPTs encode natural language into embeddings, and how it predicts text. We will also use geometric similarity approaches to represent varying types of similarity between words. 
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
+- Understand what GPTs are and how they function.
+- Why the transformer architecture is an imporant development in Natural Language Processing and AI.
+- How GPTs encode natural language into embeddings.
+- How GPTs encode language into embeddings.
 
-This workshop does not cover the following:
+This workshop does **not** cover the following:
 
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
+- Prompt Engineering. We will cover this in a future workshop.
+- The fundamentals of Python. See the list of workshops below to get a better grasp on the Python language used in this workshop.
 
 
 ## Installation Instructions
@@ -46,9 +39,22 @@ We will use [RStudio/Python] to go through the workshop materials, which require
     * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
 
-## Is [Language] not Working on Your Computer?
+### Minimum Specifications:
+* Processor: At least a modern quad-core processor (i5 or i7). More cores are beneficial for parallel processing.
+* RAM: 8 GB is the bare minimum, but 16 GB or more is recommended, especially for larger models.
+* Storage: SSD (Solid State Drive) is preferred for faster data reading and writing.
+* Operating System: Linux or Windows with Python environment set up.
 
-If you do not have [Language] installed and the materials loaded on your
+### Ideal Specifications:
+* Processor: High-end i7 or i9, or an equivalent AMD Ryzen processor.
+* RAM: 16 GB or more.
+* GPU: A dedicated GPU with CUDA support is highly beneficial. Models like NVIDIA RTX 2060 or better can significantly speed up computation. The larger the model, the more VRAM is needed. * For the largest GPT-2 model, a GPU with at least 8 GB of VRAM is recommended.
+* Storage: SSD with sufficient space for the model and your datasets.
+
+
+## Is Python not Working on Your Computer?
+
+If you do not have Python installed and the materials loaded on your
 workshop by the time it starts, we *strongly* recommend using the UC Berkeley
 Datahub to run the materials for these lessons. You can access the DataHub by
 clicking the following button:
@@ -61,7 +67,7 @@ No installation is necessary from your end - you only need an internet browser
 and a CalNet ID to log in. By using the DataHub, you can save your work and come
 back to it at any time. When you want to return to your saved work, just go
 straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
+you click on the `GPT-Fundamentals` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
@@ -69,22 +75,24 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 
 By using this button, however, you cannot save your work.
 
+# Other D-Lab Python Workshops
 
-## Run the Code
+Here are other Python workshops offered by the D-Lab:
 
-Now that you have all the required software and materials, you need to run the code:
+## Introductory Workshops
 
-Provide instructions on running the code, including how to load relevant software (RStudio, Jupyter Notebooks, etc.) and which file to open up. See other repositories for examples.
+* [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals)
+* [Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate) 
+* [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling)
+* [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization)
+* [Python Geospatial Fundamentals](https://github.com/dlab-berkeley/Geospatial-Data-and-Mapping-in-Python)
 
-Additionally, provide instructions on how to run code once it’s open (running Jupyter cells, RMarkdown cells, etc.).
+## Advanced Workshops
 
-# Additional Resources
-
-Check out the following resources to learn more about [Workshop topics]:
-
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
+* [Python Web Scraping and APIs](https://github.com/dlab-berkeley/Python-Web-Scraping)
+* [Python Machine Learning](https://github.com/dlab-berkeley/Python-Machine-Learning)
+* [Python Text Analysis](https://github.com/dlab-berkeley/Python-Text-Analysis)
+* [Python Deep Learning](https://github.com/dlab-berkeley/Python-Deep-Learning)
 
 
 # About the UC Berkeley D-Lab
@@ -93,19 +101,7 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
-
-Here are other [Language] workshops offered by the D-Lab:
-
-## Basic Competency
-
-**Provide a list of workshops here.**
-
-## Intermediate/Advanced Competency
-
-**Provide a list of workshops here.**
-
 # Contributors
 
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+Tom van Nuenen
+Renata Barreto
