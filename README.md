@@ -37,7 +37,7 @@ We will use Python to go through the workshop materials. Complete the following 
     * Click the green "Code" button in the top right of the repository information.
     * Click "Download Zip".
     * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
+3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering `git clone https://github.com/dlab-berkeley/GPT-Fundamentals.git`
 
 ### Minimum Specifications:
 * Processor: At least a modern quad-core processor (i5 or i7). More cores are beneficial for parallel processing.
