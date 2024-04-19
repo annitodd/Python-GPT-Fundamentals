@@ -4,8 +4,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/GPT-Fundamentals/HEAD)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab's GPT Fundamentals workshop. We recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals),
-[Python Intermediate](https://github.com/dlab-berkeley/Python-Intermediate), and [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling) prior to this workshop.
+This repository contains the materials for D-Lab's GPT Fundamentals workshop. 
+
+### Prerequisites
+No technical background is required, but we recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals) prior to this workshop in order to understand running Python code cells in Jupyter notebooks.
 
 Check out D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
 
