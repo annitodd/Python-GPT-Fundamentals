@@ -11,21 +11,22 @@ Check out D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-works
 
 ## Workshop Goals
 
-This workshop offers a general introduction to the GPT (Generative Pretrained Transformers) model. We will explore how they reflect and shape our cultural narratives and social interactions, and which drawbacks and constraints they have. We will explore the transformer architecture upon which GPTs are built, how GPTs encode natural language into embeddings, and how it predicts text. We will also use geometric similarity approaches to represent varying types of similarity between words. 
+This workshop offers a general introduction to the GPT (Generative Pretrained Transformers) model. We will explore the transformer architecture upon which GPT models are built, how transformer models encode natural language into embeddings, and how GPT predicts text.
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- Understand what GPTs are and how they function.
-- Why the transformer architecture is an imporant development in Natural Language Processing and AI.
-- How GPTs encode natural language into embeddings.
-- How GPTs encode language into embeddings.
+* Understand what makes the "magic" of GPT and Large Language Models (LLMs) possible via foundational concepts of word embeddings and the transformer architecture.
+* Get an intuition of word embeddings as numbers projected in vector space. 
+* Distinguish components of the self-attention mechanism in transformer models.
+* Adjust hyperparameters of GPT models to control output randomness. 
+* Use geometric similarity approaches to represent varying types of similarity between words.
 
 This workshop does **not** cover the following:
 
-- Prompt Engineering. We will cover this in a future workshop.
-- The fundamentals of Python. See the list of workshops below to get a better grasp on the Python language used in this workshop.
+* Prompt Engineering.
+* The fundamentals of Python. See the list of workshops below to get a better grasp on the Python language used in this workshop.
 
 
 ## Installation Instructions
