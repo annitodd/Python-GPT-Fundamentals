@@ -28,6 +28,7 @@ After this workshop, you will be able to:
 This workshop does **not** cover the following:
 
 * Prompt Engineering.
+* RLHF finetuning.
 * The fundamentals of Python. See the list of workshops below to get a better grasp on the Python language used in this workshop.
 
 
