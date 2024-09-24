@@ -1,4 +1,4 @@
-# D-Lab's GPT Fundamentals Workshop
+# D-Lab's GPT Fundamentals in Python Workshop
 
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](http://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FGPT-Fundamentals&urlpath=lab%2Ftree%2FGPT-Fundamentals%2F)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/GPT-Fundamentals/HEAD)
