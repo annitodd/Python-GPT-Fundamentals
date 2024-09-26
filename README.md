@@ -29,8 +29,8 @@ This workshop does **not** cover the following:
 
 * Prompt Engineering.
 * RLHF finetuning.
-* The fundamentals of Python. See the list of workshops below to get a better grasp on the Python language used in this workshop.
-
+* Working with the OpenAI API.
+* The fundamentals of Python. See the list of workshops at the bottom of this page to get a better grasp of the Python language used in this workshop.
 
 ## Installation Instructions
 
