@@ -23,7 +23,7 @@ After this workshop, you will be able to:
 * Get an intuition of word embeddings as numbers projected in vector space. 
 * Distinguish components of the self-attention mechanism in transformer models.
 * Adjust hyperparameters of GPT models to control output randomness. 
-* Use geometric similarity approaches to represent varying types of similarity between words.
+* Understand how geometric similarity approaches can be used to represent similarity between words.
 
 This workshop does **not** cover the following:
 
